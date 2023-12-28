@@ -15,7 +15,8 @@ git clone https://github.com/UncleCAT4/linux-fonts.git
 ```bash
 cd linux-fonts
 sudo cp ./windows-fonts /usr/share/fonts/
-sudo cp ./wps-fonts/usr/share/fonts/
+sudo cp ./wps-fonts /usr/share/fonts/
+sudo cp ./ubuntu-fonts /usr/share/fonts/
 ```
 
 创建索引并刷新字体缓存：
