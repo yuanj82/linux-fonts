@@ -7,7 +7,7 @@ Linux 下的字体完善。
 克隆本仓库：
 
 ```bash
-git clone https://github.com/UncleCAT4/linux-fonts.git
+git clone https://github.com/yuanj82/linux-fonts.git
 ```
 
 复制到字体文件夹（Debian 为例）：
